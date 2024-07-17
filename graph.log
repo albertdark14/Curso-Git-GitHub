@@ -1,0 +1,28 @@
+* abbc3e8 Agregando 2 parrafos
+*   cb84900 Resolviendo conflicto en estaciones del año y fechas de inicio
+|\  
+| * 1bb6eb7 Agregando las  estaciones del año
+* | 124b89c Agregando estaciones del año con fecha de inicio
+|/  
+*   3024ddd Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 7105ca3 Agregando index.js al index.html
+* | 31b748e Agregando styles.css al index.html
+* |   ed539d6 Merge branch 'js'
+|\ \  
+| * | 3d239dd index js
+| * | b9075e1 Creando index.js
+* | | 1b2e0bd Creando style.css
+| |/  
+|/|   
+* | 03d908d Creando Archivo index.html
+|/  
+* ead2853 Actualizando archivo .gitignore
+* 6027226 Ignorando archivo .exe
+* 35d685e Delete luna.exe
+* 3792559 Ignorando archivos .exe
+* bc290bd Ignorando archivos .exe
+* be02159 Creando license.txt
+* 95f19c1 Agregando mas contenido al README
+* 8687339 Primer cambio en el github
+* 31c3def Primer commit

@@ -1,0 +1,128 @@
+commit abbc3e8fe5dca7a27ac07f57fc78705463a4e29f
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Tue Jul 16 15:12:08 2024 -0600
+
+    Agregando 2 parrafos
+
+commit cb84900ea510d8bd81aa421a28b3af4c260a86bd
+Merge: 124b89c 1bb6eb7
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Tue Jul 16 15:09:50 2024 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 124b89cb146a019071c07a3c843738fe5927c347
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Tue Jul 16 02:02:10 2024 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 1bb6eb7ebe56b29fcee94ca717e351e33b2a9b61
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Tue Jul 16 02:02:10 2024 -0600
+
+    Agregando las  estaciones del año
+
+commit 3024dddf8cac249151a68b7263f9c444bc8a64b2
+Merge: 31b748e 7105ca3
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Tue Jul 16 01:56:55 2024 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 7105ca30c32845cea34e7230d6bd2c87499a7175
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Tue Jul 16 01:46:51 2024 -0600
+
+    Agregando index.js al index.html
+
+commit 31b748e68c7a54f3740f807a2007dc75c542446f
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Tue Jul 16 01:44:36 2024 -0600
+
+    Agregando styles.css al index.html
+
+commit ed539d6a3f01b9d3bb19d37bd206720d5515fdbe
+Merge: 1b2e0bd 3d239dd
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Tue Jul 16 01:31:41 2024 -0600
+
+    Merge branch 'js'
+
+commit 3d239dd0d4cb609840f02e45bb5cd8602b576506
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Tue Jul 16 01:28:52 2024 -0600
+
+    index js
+
+commit b9075e1ca57a3822e5f0c86c5f5a439ea76e5a04
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Mon Jul 15 23:17:52 2024 -0600
+
+    Creando index.js
+
+commit 1b2e0bd82517ffb90562481cc03b0b1ee06c55fc
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Mon Jul 15 23:07:46 2024 -0600
+
+    Creando style.css
+
+commit 03d908d2d24d6ddd34456ea6c22f1b92f6d0ca1a
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Mon Jul 15 23:02:47 2024 -0600
+
+    Creando Archivo index.html
+
+commit ead28534843ec4ea2f1cd55a8ec60ff063f4519e
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Mon Jul 15 15:45:52 2024 -0600
+
+    Actualizando archivo .gitignore
+
+commit 6027226212db590fbdc81036ad845a4dab4f1c0a
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Mon Jul 15 15:44:44 2024 -0600
+
+    Ignorando archivo .exe
+
+commit 35d685e2468547ae5c3498166100c9c99a0e0df5
+Author: Alberto <110141250+albertdark14@users.noreply.github.com>
+Date:   Mon Jul 15 15:41:41 2024 -0600
+
+    Delete luna.exe
+
+commit 379255986a11dc0c4d31a9d14cf80d4d1cc3b756
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Mon Jul 15 15:38:24 2024 -0600
+
+    Ignorando archivos .exe
+
+commit bc290bd713aa54648a839dd19544e3750fc378a9
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Mon Jul 15 15:37:33 2024 -0600
+
+    Ignorando archivos .exe
+
+commit be02159922b1d71e64f777c64e20b6be4c78d5f2
+Author: Alberto <110141250+albertdark14@users.noreply.github.com>
+Date:   Mon Jul 15 02:23:30 2024 -0600
+
+    Creando license.txt
+
+commit 95f19c1d00149f122b5a074567b9c792911c2442
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Mon Jul 15 02:14:40 2024 -0600
+
+    Agregando mas contenido al README
+
+commit 8687339fcbf1ea364dd9c43a0ac7ff36fe32381a
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Mon Jul 15 02:05:01 2024 -0600
+
+    Primer cambio en el github
+
+commit 31c3def15af2d5c7fab9a13656967966ec25258e
+Author: Alberto <albertoayalahdez@gmail.com>
+Date:   Mon Jul 15 02:01:05 2024 -0600
+
+    Primer commit
